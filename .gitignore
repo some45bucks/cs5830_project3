@@ -1,0 +1,21 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore the secret folder
+secret/
+
+#Ignore vscode settings
+.vscode/
