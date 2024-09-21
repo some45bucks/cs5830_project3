@@ -19,3 +19,5 @@ secret/
 
 #Ignore vscode settings
 .vscode/
+
+.cache/
