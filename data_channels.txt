@@ -1,0 +1,6 @@
+Category,1,2,3,4,5,6,7,8,9,10
+Music,T-Series,UC-9-kyTW8ZkZNDHQJ6FgpwQ,ZeeMusicCompany,BLACKPINK,BANGTANTV,HYBELABELS,JustinBieber,T-SeriesBhaktiSagar,ShemarooFilmiGaane,TipsOfficial
+Gaming,Gaming,Mikecrack,JuegaGerman,Fernanfloo,MrBeastGaming,TotalGaming,TechnoGamerz,TheDonato,elrubiusOMG,LankyBox
+Auto and Vehicles,Supercar Blondie,ChrisFix,Suvo Stunts,carwow,TOYOTA GAZOO Racing,Top Gear,Donut,Pramod's Life,Дима Гордей,Faraz Stunt Rider
+Sports, WWE,https://www.youtube.com/sports,UR · Cristiano,Dude Perfect,YOLO AVENTURAS,Celine Dept,How Ridiculous,NBA,FIFA,Matt Larose
+Travel,Marusya Outdoors,Zack D. Films,Nas Daily,Best Ever Food Review Show,Mark Wiens,Karadenizli Maceracı,Hep Gezen,Travel Thirsty,fliptopbattles,야미보이 Yummyboy
