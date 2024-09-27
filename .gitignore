@@ -11,9 +11,6 @@ ENV/
 env/
 .venv/
 
-# Ignore Jupyter Notebook files
-*.ipynb
-
 # Ignore the secret folder
 secret/
 
